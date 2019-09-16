@@ -1,0 +1,64 @@
+I hereby claim:
+
+  * I am junkman77 on github.
+  * I am junkman84 (https://keybase.io/junkman84) on keybase.
+  * I have a public key ASDIziS3xMNanGVDMNltT1FgcCjWzt11CGUZMt_-nK1mpQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c8ce24b7c4c35a9c654330d96d4f51607028d6cedd7508651932dffe9cad66a50a",
+      "host": "keybase.io",
+      "kid": "0120c8ce24b7c4c35a9c654330d96d4f51607028d6cedd7508651932dffe9cad66a50a",
+      "uid": "49d531fb5a3fdbe7594861d4a67fcd19",
+      "username": "junkman84"
+    },
+    "merkle_root": {
+      "ctime": 1568674456,
+      "hash": "46d2d9bbb808fb88f60e6834d2e07aa077239d84536fa4c071514ea282dba3c7bbad38c9104421fbeb40292005fe55b83f46e241767b771bbfbe22a9d58a75da",
+      "hash_meta": "2111dac97aca1c4aaec9993f5eb5ffbf663a6a7f54f16c7a8e1f8f1f91eacf66",
+      "seqno": 7493551
+    },
+    "service": {
+      "entropy": "cZzx85rZJdCY2sJUkNZ9Wxch",
+      "name": "github",
+      "username": "junkman77"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568674478,
+  "expire_in": 504576000,
+  "prev": "491289a458986752cffc393aa04408d5ef0da6ec0e29bc2e3235e2f9b09fa538",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASDIziS3xMNanGVDMNltT1FgcCjWzt11CGUZMt_-nK1mpQo](https://keybase.io/junkman84), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyM4kt8TDWpxlQzDZbU9RYHAo1s7ddQhlGTLf/pytZqUKp3BheWxvYWTESpcCBcQgSRKJpFiYZ1LP/Dk6oEQI1e8NpuwOKbwuMjXi+bCfpTjEIG6zVgOB1At5/yu41FWUQp995k5W/Ez/0RCydBjl87urAgHCo3NpZ8RA3bwNypkM70bloHiTjfyNaiMCE/h7vfO892vvH2ClVgNxF2aS2YpZ2+8iZEPy1kVskhUR1vAz2QdnF1S2NZSyDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINWYkYtpTD7/V3lmlR8AJV7IpQRrJh6fmZh8rI2u12Mdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/junkman84
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id junkman84
